@@ -17,7 +17,7 @@ public class Main {
         System.out.println(hours);
         System.out.println(city);
         System.out.println(groups);
-        System.out.println("update");
+
 
         Professor myProfessor = new Professor("Florea Florin", "10-09-1800", 'M', "Networking", speciality, hours, city, groups);
         System.out.println(myProfessor);
